@@ -6,6 +6,6 @@ This is a document explaining about the Janefield wetland project related to lit
 
 The students involved in this project will:
 
-*Collect litter
-*Develop their own webpage
-*Write software to record the location of litter using GPS coordinates
+* Collect litter
+* Develop their own webpage
+* Write software to record the location of litter using GPS coordinates
